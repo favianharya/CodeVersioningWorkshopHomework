@@ -4,3 +4,5 @@
 4. Selesaikan Konflik (jika ada): Jika ada konflik dalam penggabungan, Anda perlu menyelesaikannya secara manual. Git akan menunjukkan file-file yang menyebabkan konflik, dan Anda harus memperbaikinya.
 5. Commit Merge: Setelah semua konflik diselesaikan, lakukan commit untuk menyelesaikan proses merge.
 6. Push Perubahan: Terakhir, push perubahan ke repositori jarak-jauh (remote repository) agar perubahan tersebut tersedia untuk kolaborator lainnya.
+
+NAMA: Favian Harya Nandana Adrian
