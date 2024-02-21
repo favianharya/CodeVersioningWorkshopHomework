@@ -5,3 +5,8 @@ menghapus, dan mengelola cabang (branch) melalui antarmuka baris perintah Git at
 menggunakan fitur yang disediakan oleh platform GitHub. 
 
 Fungsi Utama: Membuat cabang baru dari cabang utama atau cabang lain dalam repositori Git.
+
+Manfaat:
+- Memisahkan pengembangan fitur atau perbaikan bug ke dalam unit terpisah, yang memudahkan pengelolaan dan pengujian.
+- Mengizinkan pengembang untuk bekerja secara terpisah tanpa mengganggu proyek utama, 
+serta memungkinkan untuk mencoba berbagai ide atau eksperimen tanpa risiko merusak kode yang ada.

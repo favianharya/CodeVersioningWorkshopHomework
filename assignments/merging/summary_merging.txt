@@ -6,3 +6,7 @@ GitHub menyediakan antarmuka web yang memungkinkan pengembang untuk melakukan me
 perlu menggunakan terminal atau Git secara langsung.
 
 Fungsi Utama: Menggabungkan perubahan dari satu cabang ke cabang lain dalam repositori Git.
+
+Manfaat:
+- Mencegah duplikasi kode dengan menggabungkan perubahan dari cabang yang berbeda ke satu tempat.
+- Memastikan bahwa kode yang ada di cabang utama selalu terupdate dengan fitur dan perbaikan terbaru.
