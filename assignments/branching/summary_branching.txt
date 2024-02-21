@@ -10,3 +10,5 @@ Manfaat:
 - Memisahkan pengembangan fitur atau perbaikan bug ke dalam unit terpisah, yang memudahkan pengelolaan dan pengujian.
 - Mengizinkan pengembang untuk bekerja secara terpisah tanpa mengganggu proyek utama, 
 serta memungkinkan untuk mencoba berbagai ide atau eksperimen tanpa risiko merusak kode yang ada.
+
+CONTOH: git branch <nama branch>
