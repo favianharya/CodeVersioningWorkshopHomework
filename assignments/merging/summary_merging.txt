@@ -4,3 +4,5 @@ Merge pada GitHub adalah proses menggabungkan perubahan yang ada di satu cabang 
 seperti menggabungkan perubahan dari cabang fitur ke cabang utama (biasanya disebut main atau master). 
 GitHub menyediakan antarmuka web yang memungkinkan pengembang untuk melakukan merge dengan mudah tanpa 
 perlu menggunakan terminal atau Git secara langsung.
+
+Fungsi Utama: Menggabungkan perubahan dari satu cabang ke cabang lain dalam repositori Git.

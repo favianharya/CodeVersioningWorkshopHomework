@@ -3,3 +3,5 @@ branching
 Branching di GitHub dilakukan menggunakan Git, yang mana Anda dapat membuat, 
 menghapus, dan mengelola cabang (branch) melalui antarmuka baris perintah Git atau 
 menggunakan fitur yang disediakan oleh platform GitHub. 
+
+Fungsi Utama: Membuat cabang baru dari cabang utama atau cabang lain dalam repositori Git.
