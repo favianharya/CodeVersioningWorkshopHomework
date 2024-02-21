@@ -1,3 +1,5 @@
 1. Buat Cabang Baru: Gunakan perintah git branch <nama-cabang> untuk membuat cabang baru.
 2. Beralih ke Cabang Baru: Gunakan perintah git checkout <nama-cabang> untuk beralih ke cabang baru yang telah dibuat.
 3. Kembangkan Fitur: Di cabang baru, lakukan pekerjaan Anda, seperti menambahkan atau memperbaiki fitur tertentu.
+
+NAMA: Favian Harya Nandana Adrian
